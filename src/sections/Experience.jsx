@@ -13,7 +13,6 @@ const experiences = [
       'Built a full-stack E-Commerce website using HTML, CSS, JS, Bootstrap, PHP, MySQL.',
       'Developed Admin Panel (products, orders, users, coupons). ',
       'Built User Panel (auth, cart, wishlist, checkout, payment). ',
-      'Built User Panel (auth, cart, wishlist, checkout, payment). ',
     ],
     stack: ['HTML', 'CSS', 'JavaScript', 'Bootstrap', 'PHP', 'MySQL'],
   },
